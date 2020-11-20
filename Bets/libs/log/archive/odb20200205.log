@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-05 18:29:11 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\alfredo2011\workspace\Bets\resources\bets.temp' is opened by 13212@U110132
+
+[2020-02-05 18:29:11 #2 type.registry] 
+New type domain.Question
+
+[2020-02-05 18:29:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-05 18:29:11 #4 type.registry] 
+New type domain.Event
+
+[2020-02-05 18:29:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-05 18:29:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-05 18:29:11 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-05 18:30:43 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\alfredo2011\workspace\Bets\resources\bets.temp' is opened by 7832@U110132
+
+[2020-02-05 18:30:43 #2 type.registry] 
+New type domain.Question
+
+[2020-02-05 18:30:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-05 18:30:43 #4 type.registry] 
+New type domain.Event
+
+[2020-02-05 18:30:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-05 18:30:43 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-05 18:30:43 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
